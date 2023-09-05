@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+.div{
+    margin-left: 50px;
+   height: 630px;
+   width: 1200px;
+    border: 1px black;
+    border-style: solid;
+}
+.but{
+    height: 50px;
+    width: 200px;
+    font-weight: bold;
+    font-size: large;
+    background-color: rgba(255, 68, 0, 0.664);
+    border: none;
+    border-radius: 5px;
+    margin-top: 250px;
+    position: relative;
+    
+}
+.sp{
+    background-color: rgba(0, 0, 0, 0.795);
+    color: white;
+    width: 80px;
+    position: absolute;
+    left: 160px;
+    bottom: 30px;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    padding-top: 8px;
+}
